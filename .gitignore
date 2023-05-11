@@ -74,3 +74,6 @@ crashlytics-build.properties
 
 /AudioLinkUnityProject/Assets/Samples*
 /AudioLinkSandboxUnityProject/Assets/Samples*
+*.meta
+*.meta
+*.meta
